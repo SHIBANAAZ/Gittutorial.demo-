@@ -1,0 +1,8 @@
+error.log
+.log
+error
+*.log
+/dr/
+static/dr
+
+abc.pptx
